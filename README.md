@@ -15,9 +15,59 @@ The application uses browser Local Storage to save notes, so they remain availab
 - Retain saved notes after browser refresh.
 - Validate empty input field.
 
+##  Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Browser Local Storage
+
+##  Project Structure
+
+```text
+notes-app/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+##  How to Run the Project
+
+No additional software or package installation is required.
+
+1. Clone or download this repository.
+2. Open the project folder.
+3. Double-click `index.html`.
+4. The application will open in your default web browser.
 
 
-## 👩‍💻 Author
+##  How to Use
+
+1. Enter a title for your note.
+2. Write your note content.
+3. Click the **Add Note** button.
+4. Click **Edit** to modify an existing note.
+5. Click **Delete** to remove a note.
+6. Use the search bar to find notes by title or content.
+
+##  Concepts Practiced
+
+- JavaScript DOM manupulation.
+- Event handling
+- Functions and conditional statements
+- Arrays and objects
+- Array methods (`push()`, `filter()`)
+- Dynamic HTML element creation
+- CRUD operations (Create, Read, Update, Delete)
+- Local Storage
+- JSON parsing and stringification
+- Search and filtering
+
+
+
+##  Author
 
 Bhagya B.
 
